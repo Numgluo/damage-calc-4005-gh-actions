@@ -1,4 +1,5 @@
 # damage-calc
+![](https://github.com/Numgluo/damage-calc-4005-gh-actions/workflows/set%20up%20jest/badge.svg)
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
